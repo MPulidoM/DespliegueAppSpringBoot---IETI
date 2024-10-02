@@ -24,5 +24,9 @@ El presente es un ejemplo de cómo desplegar un microservicio REST desarrollado 
 
 **Railway APP**
 
+![image](https://github.com/user-attachments/assets/8e288dfd-299b-46e7-84fd-5b181bf66e82)
+
+![image](https://github.com/user-attachments/assets/2ef0b540-4976-401b-8c3a-cf1cd7a9359a)
+
 
 
